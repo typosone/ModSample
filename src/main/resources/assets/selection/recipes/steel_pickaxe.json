@@ -1,0 +1,21 @@
+{
+  "result": {
+    "item": "selection:steel_pickaxe"
+  },
+  "pattern": [
+    "aaa",
+    " b ",
+    " b "
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "a": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    },
+    "b": {
+      "type": "forge:ore_dict",
+      "ore": "stickWood"
+    }
+  }
+}

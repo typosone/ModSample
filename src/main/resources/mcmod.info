@@ -1,0 +1,16 @@
+[
+{
+  "modid": "selection",
+  "name": "はじめてのもっぢんｇ",
+  "description": "初歩的なアイテム追加ブロック追加レシピ追加の練習してます",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["sone"],
+  "credits": "",
+  "logoFile": "assets/selection/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
